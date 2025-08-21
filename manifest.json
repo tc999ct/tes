@@ -2,7 +2,7 @@
   "name": "Calculator PWA",
   "short_name": "Calc PWA",
   "description": "A simple calculator as a Progressive Web App",
-  "start_url": "/index.html",
+  "start_url": "/tes/index.html",
   "display": "standalone",
   "background_color": "#3367D6",
   "theme_color": "#3367D6",
